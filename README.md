@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Mern stack learning
 - 📫 How to reach me ijaasahamed143@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I think I'm funny
 
 <!---
