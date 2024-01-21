@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ijaasahamed&label=Profile%20views&color=0e75b6&style=flat" alt="ijaasahamed" /> </p>
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 🔭 I’m currently working on [Stina Photography Studio](http://stinastudio.seasense.in/)
+- 🔭 I’m currently working on Mindtek Research & IT Solutions
 
 - 🌱 I’m currently learning **Frameworks**
 
